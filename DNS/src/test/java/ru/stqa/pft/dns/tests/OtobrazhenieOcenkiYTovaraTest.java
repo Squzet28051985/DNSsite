@@ -15,7 +15,7 @@ public class OtobrazhenieOcenkiYTovaraTest extends TestBase {
     @BeforeMethod
     public void PredvoritelnyeDeysvia() throws InterruptedException {
         app.page().perehodV_DNS_Katalog();
-        app.page().login("89967994719", "Amaru280585");//Сюда нужно вводить логин и пароль
+        app.page().login("*******", "*******");//Сюда нужно вводить логин и пароль
         Thread.sleep(2000);
         app.page().navedenieMyshiNaElementPervogoMenu("Смартфоны и гаджеты");
         app.page().clickPoElementyVtorogoMenu("Фототехника");

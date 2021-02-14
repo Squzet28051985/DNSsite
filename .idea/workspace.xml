@@ -190,7 +190,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1613341081253" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1613341474582" />
     <property name="extract.method.default.visibility" value="public" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/DNS/build.gradle" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -215,7 +215,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.MagaziniVAlfavitnomPoryadkeTest">
+  <component name="RunManager" selected="TestNG.TovarImeetOdnuChernuyuCenuTest (1)">
     <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
       <module name="DNScatalog" />
       <option name="VM_PARAMETERS" />
@@ -356,8 +356,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TovarImeetOdnuChernuyuCenuTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="DNScatalog.test" />
+    <configuration name="TovarImeetOdnuChernuyuCenuTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DNS.test" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ru.stqa.pft.dns.tests.*" />
@@ -375,11 +375,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TovarImeetOdnuChernuyuCenuTest (1)" />
         <item itemvalue="TestNG.MagaziniVAlfavitnomPoryadkeTest" />
         <item itemvalue="TestNG.OtobrazhenieOcenkiYTovaraTest" />
         <item itemvalue="TestNG.NahozhdenieSlovaVSpiskeMagazinovTest" />
         <item itemvalue="TestNG.KnopkaTest" />
-        <item itemvalue="TestNG.TovarImeetOdnuChernuyuCenuTest" />
       </list>
     </recent_temporary>
   </component>
