@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ea4c870b-76aa-4025-b13b-c5a626991040" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../DNScatalog/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DNScatalog/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/../DNScatalog/.gradle/" />
+    <ignored path="$PROJECT_DIR$/../DNScatalog/build/" />
+    <ignored path="$PROJECT_DIR$/../DNScatalog/out/" />
+    <ignored path="$PROJECT_DIR$/DNS/.gradle/" />
+    <ignored path="$PROJECT_DIR$/DNS/build/" />
+    <ignored path="$PROJECT_DIR$/DNS/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/../DNScatalog">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/DNS">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/../java-pfttt">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DNS/src/test/java/ru/stqa/pft/dns/tests/TovarImeetOdnuChernuyuCenuTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DNS/src/test/java/ru/stqa/pft/dns/tests/KnopkaUIBrand_i_KnopkaUIBrands_i_KnopkaUIBrandisTest.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DNS/src/test/java/ru/stqa/pft/dns/tests/MagaziniVAlfavitnomPoryadkeTest.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../DNScatalog" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/UntitledTestCase.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/ButtonPrimenitAndButtonUIBrandsAndButtonUIBrandisTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/ТестАлфавитныйПорядокМагазинов.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/МагазиныВАлфавитномПорядке.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/АдресаМагазиновАлфавитныйПорядок.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/StoresAddressesAlphabeticalOrderTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/ApplicationManager.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/TestBase.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/tests/StoresAddressesAlphabeticalOrderTest.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/tests/lala.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/tests/h.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/tests/SortirovkaTovaraPoCenam.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/tests/SortirovkaTovaraPoCenamTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/tests/ButtonPrimenitAndButtonUIBrandsAndButtonUIBrandisTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/tests/ап.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/tests/TovarImeetOdnuCenuTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/tests/cvc.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/tests/dsf.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/tests/dfsdf.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/tests/NahozhdenieSlovaVSpiskeMagazinovTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/tests/TovarImeetOdnuChernuyuCenuTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/tests/dfddf.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/tests/MagaziniVAlfavitnomPoryadkeTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/tests/OcenkaYTovaraTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/appmanager/PageHelper.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/appmanager/ApplicationManager.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/tests/KnopkaTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/tests/TestBase.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/tests/KnopkaUIBrand_i_KnopkaUIBrands_i_KnopkaUIBrandisTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/tests/OtobrazhenieOcenkiYTovaraTest.java" />
+        <option value="$PROJECT_DIR$/DNScatalog/src/test/java/ru/stqa/pft/dns/tests/TovarImeetOdnuChernuyuCenuTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/tests/SortirovkaTovaraPoCenamUbivanieTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-65" />
+    <option name="y" value="486" />
+    <option name="width" value="1936" />
+    <option name="height" value="774" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DNSsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DNS" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="DNSsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DNS" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DNSsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DNS" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="DNSsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DNS" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="DNSsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DNS" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DNSsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DNS" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dns" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DNSsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DNS" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dns" type="462c0819:PsiDirectoryNode" />
+              <item name="appmanager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DNSsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DNS" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dns" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1613341081253" />
+    <property name="extract.method.default.visibility" value="public" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/DNS/build.gradle" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ru.stqa.pft.dns.appmanager" />
+      <recent name="ru.stqa.pft.dns" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.MagaziniVAlfavitnomPoryadkeTest">
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="DNScatalog" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="DNScatalog" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KnopkaTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DNScatalog.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.stqa.pft.dns.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.stqa.pft.dns.tests" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.dns.tests.KnopkaTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MagaziniVAlfavitnomPoryadkeTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DNScatalog.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.stqa.pft.dns.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.stqa.pft.dns.tests" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.dns.tests.MagaziniVAlfavitnomPoryadkeTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NahozhdenieSlovaVSpiskeMagazinovTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DNScatalog.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.stqa.pft.dns.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.stqa.pft.dns.tests" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.dns.tests.NahozhdenieSlovaVSpiskeMagazinovTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OtobrazhenieOcenkiYTovaraTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DNScatalog.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.stqa.pft.dns.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.stqa.pft.dns.tests" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.dns.tests.OtobrazhenieOcenkiYTovaraTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortirovkaTovaraPoCenamUbivanieTest" type="TestNG" nameIsGenerated="true">
+      <module name="DNScatalog.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.stqa.pft.dns.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="ru.stqa.pft.dns.tests" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.dns.tests.SortirovkaTovaraPoCenamUbivanieTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TovarImeetOdnuChernuyuCenuTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DNScatalog.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.stqa.pft.dns.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.stqa.pft.dns.tests" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.dns.tests.TovarImeetOdnuChernuyuCenuTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.MagaziniVAlfavitnomPoryadkeTest" />
+        <item itemvalue="TestNG.OtobrazhenieOcenkiYTovaraTest" />
+        <item itemvalue="TestNG.NahozhdenieSlovaVSpiskeMagazinovTest" />
+        <item itemvalue="TestNG.KnopkaTest" />
+        <item itemvalue="TestNG.TovarImeetOdnuChernuyuCenuTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea4c870b-76aa-4025-b13b-c5a626991040" name="Default Changelist" comment="" />
+      <created>1593426111716</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593426111716</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="OtobrazhenieOcenkiYTovaraTest - 2021.02.14 at 15h 15m 09s.xml">
+      <configuration name="OtobrazhenieOcenkiYTovaraTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="NahozhdenieSlovaVSpiskeMagazinovTest - 2021.02.14 at 15h 18m 07s.xml">
+      <configuration name="NahozhdenieSlovaVSpiskeMagazinovTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="NahozhdenieSlovaVSpiskeMagazinovTest - 2021.02.14 at 15h 19m 16s.xml">
+      <configuration name="NahozhdenieSlovaVSpiskeMagazinovTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MagaziniVAlfavitnomPoryadkeTest - 2021.02.14 at 15h 21m 05s.xml">
+      <configuration name="MagaziniVAlfavitnomPoryadkeTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="OtobrazhenieOcenkiYTovaraTest - 2021.02.14 at 15h 26m 21s.xml">
+      <configuration name="OtobrazhenieOcenkiYTovaraTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="OtobrazhenieOcenkiYTovaraTest - 2021.02.14 at 15h 36m 00s.xml">
+      <configuration name="OtobrazhenieOcenkiYTovaraTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="OtobrazhenieOcenkiYTovaraTest - 2021.02.14 at 15h 55m 40s.xml">
+      <configuration name="OtobrazhenieOcenkiYTovaraTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MagaziniVAlfavitnomPoryadkeTest - 2021.02.14 at 23h 08m 56s.xml">
+      <configuration name="MagaziniVAlfavitnomPoryadkeTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MagaziniVAlfavitnomPoryadkeTest - 2021.02.14 at 23h 16m 44s.xml">
+      <configuration name="MagaziniVAlfavitnomPoryadkeTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SortirovkaTovaraPoCenamUbivanieTest - 2021.02.15 at 00h 50m 04s.xml">
+      <configuration name="SortirovkaTovaraPoCenamUbivanieTest" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.25" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.11963434" side_tool="true" visible="true" weight="0.3289166" />
+      <window_info anchor="bottom" id="Build" order="2" visible="true" weight="0.3289166" />
+      <window_info anchor="bottom" id="Messages" order="3" sideWeight="0.43561208" weight="0.32969603" />
+      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.88036567" weight="0.3289166" />
+      <window_info anchor="bottom" id="Debug" order="8" sideWeight="0.49960256" weight="0.3990647" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Gradle" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/АдресаМагазиновАлфавитныйПорядок.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/tests/lala.java" />
+    <entry file="file://$PROJECT_DIR$/DNScatalog/.gitattributes" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/tests/SortirovkaTovaraPoCenam" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/tests/Tovar.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/tests/TovarImeetOdnuCenuTest" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/tests/cvc.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/tests/NahozhdenieSlovaVSpiskeMagazinovTest" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/tests/dfsdf.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/tests/KnopkaTest" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/tests/OcenkaYTovaraTest" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/tests/KnopkaTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/appmanager/SeleniumAssertion.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/appmanager/ApplicationManager.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/tests/TestBase.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/tests/TovarImeetOdnuChernuyuCenuTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/appmanager/PageHelper.java" />
+    <entry file="file://$PROJECT_DIR$/DNScatalog/src/test/java/ru/stqa/pft/dns/tests/TovarImeetOdnuChernuyuCenuTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/tests/KnopkaUIBrand_i_KnopkaUIBrands_i_KnopkaUIBrandisTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/tests/MagaziniVAlfavitnomPoryadkeTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/tests/NahozhdenieSlovaVSpiskeMagazinovTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/tests/SortirovkaTovaraPoCenamUbivanieTest.java" />
+    <entry file="file://$PROJECT_DIR$/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle" />
+    <entry file="file://$PROJECT_DIR$/gradlew" />
+    <entry file="file://$PROJECT_DIR$/gradlew.bat" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/tests/OtobrazhenieOcenkiYTovaraTest.java" />
+    <entry file="file://$PROJECT_DIR$/DNS/src/test/java/ru/stqa/pft/dns/tests/TovarImeetOdnuChernuyuCenuTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DNS/src/test/java/ru/stqa/pft/dns/tests/KnopkaUIBrand_i_KnopkaUIBrands_i_KnopkaUIBrandisTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DNS/src/test/java/ru/stqa/pft/dns/tests/MagaziniVAlfavitnomPoryadkeTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>DNS|DNScatalog</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
