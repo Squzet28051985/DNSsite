@@ -8,8 +8,9 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
-
 import static org.testng.Assert.assertTrue;
+
+
 
 public class OtobrazhenieOcenkiYTovaraTest extends TestBase {
     @BeforeMethod
@@ -28,6 +29,5 @@ public class OtobrazhenieOcenkiYTovaraTest extends TestBase {
         app.page().vystavlenieObsheyOcenki();
         app.page().zagruzkaFaila();
         app.page().otpravitOtzyv();
-        assertTrue(app.driver.findElement(By.cssSelector(".ow-opinions__item")).getText().contains("Пришелец-BG51340"));
-
+        assertTrue(app.driver.findElement(By.cssSelector(".ow-opinions__item")).getText().contains("Пришелец-BG513406"));
     }}

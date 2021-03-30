@@ -3,9 +3,17 @@ apply plugin: 'java'
 repositories{
     mavenCentral()
 }
-
+configurations {
+    agent
+}
 dependencies{
+    implementation 'junit:junit:4.13.2'
     implementation 'org.testng:testng:7.1.0'
     implementation 'org.seleniumhq.selenium:selenium-java:4.0.0-alpha-7'
+    testCompile 'com.codeborne:selenide:5.18.1'
+    agent "org.aspectj:aspectjweaver:1.8.0"
 }
 
+test.doFirst {
+    jvmArgs "-javaagent:${configurations.agent.singleFile}"
+}

@@ -20,7 +20,7 @@ public class PageHelper extends TestBase {
     }
 
     public void login(String TelephoneOrEmail, String Password) {
-        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(2));
+        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
         boolean a = app.isElementPresent(By.cssSelector(".header-profile__avatar"));
         if (a == false) {
             driver.findElement(By.cssSelector(".header__login_button")).click();
@@ -115,6 +115,9 @@ public class PageHelper extends TestBase {
         JavascriptExecutor javascriptExecutor =(JavascriptExecutor)app.driver;
         javascriptExecutor.executeScript("arguments[0].click();", fileinput2);
     }
+
+
+
 
 }
 

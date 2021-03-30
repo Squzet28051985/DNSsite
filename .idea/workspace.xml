@@ -1,8 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ea4c870b-76aa-4025-b13b-c5a626991040" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../DNScatalog/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DNScatalog/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ea4c870b-76aa-4025-b13b-c5a626991040" name="Default Changelist" comment="Добавлен тест">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_13_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/DNSsite.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DNS/src/test/resources/allure.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DNScatalog/src" beforeDir="false" afterPath="$PROJECT_DIR$/../DNScatalog/src" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DNScatalog/src/test/java/ru/stqa/pft/dns/tests/celenidetest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DNScatalog/src/test/java/ru/stqa/pft/dns/tests/celenidetest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/DNS.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/DNS.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/DNS.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/DNS.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/DNScatalog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/DNScatalog.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/DNScatalog.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/DNScatalog.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/DNScatalog.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/DNScatalog.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DNS/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/DNS/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DNS/out/test/classes/ru/stqa/pft/dns/appmanager/PageHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/DNS/out/test/classes/ru/stqa/pft/dns/appmanager/PageHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DNS/out/test/classes/ru/stqa/pft/dns/tests/OtobrazhenieOcenkiYTovaraTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/DNS/out/test/classes/ru/stqa/pft/dns/tests/OtobrazhenieOcenkiYTovaraTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DNS/src/test/java/ru/stqa/pft/dns/appmanager/PageHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/DNS/src/test/java/ru/stqa/pft/dns/appmanager/PageHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DNS/src/test/java/ru/stqa/pft/dns/tests/OtobrazhenieOcenkiYTovaraTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/DNS/src/test/java/ru/stqa/pft/dns/tests/OtobrazhenieOcenkiYTovaraTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -36,29 +54,86 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
-        <projects_view />
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="DNS" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
       </state>
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DNS/src/test/java/ru/stqa/pft/dns/tests/TovarImeetOdnuChernuyuCenuTest.java">
+        <entry file="file://$PROJECT_DIR$/../DNScatalog/src/test/java/ru/stqa/pft/dns/tests/test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="652">
+              <caret line="157" column="22" selection-start-line="157" selection-start-column="22" selection-end-line="157" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DNS/src/test/java/ru/stqa/pft/dns/tests/KnopkaUIBrand_i_KnopkaUIBrands_i_KnopkaUIBrandisTest.java">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/DNS/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DNS/src/test/java/ru/stqa/pft/dns/tests/MagaziniVAlfavitnomPoryadkeTest.java">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/../DNScatalog/src/test/java/ru/stqa/pft/dns/tests/celenidetest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DNS/src/test/java/ru/stqa/pft/dns/tests/NahozhdenieSlovaVSpiskeMagazinovTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DNS/src/test/java/ru/stqa/pft/dns/tests/OtobrazhenieOcenkiYTovaraTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="32" column="6" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DNS/src/test/java/ru/stqa/pft/dns/tests/SortirovkaTovaraPoCenamUbivanieTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="39" selection-start-line="39" selection-end-line="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DNS/src/test/java/ru/stqa/pft/dns/tests/TovarImeetOdnuChernuyuCenuTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -76,12 +151,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/UntitledTestCase.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/ButtonPrimenitAndButtonUIBrandsAndButtonUIBrandisTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/ТестАлфавитныйПорядокМагазинов.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/МагазиныВАлфавитномПорядке.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/АдресаМагазиновАлфавитныйПорядок.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/StoresAddressesAlphabeticalOrderTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/ApplicationManager.java" />
         <option value="$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/TestBase.java" />
         <option value="$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/tests/StoresAddressesAlphabeticalOrderTest.java" />
@@ -109,6 +178,30 @@
         <option value="$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/tests/OtobrazhenieOcenkiYTovaraTest.java" />
         <option value="$PROJECT_DIR$/DNScatalog/src/test/java/ru/stqa/pft/dns/tests/TovarImeetOdnuChernuyuCenuTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/tests/SortirovkaTovaraPoCenamUbivanieTest.java" />
+        <option value="$PROJECT_DIR$/DNS/src/test/resources/allure.properties" />
+        <option value="$PROJECT_DIR$/DNS/src/test/java/ru/stqa/pft/dns/tests/NahozhdenieSlovaVSpiskeMagazinovTest.java" />
+        <option value="$PROJECT_DIR$/DNS/src/test/java/ru/stqa/pft/dns/tests/d.java" />
+        <option value="$PROJECT_DIR$/DNS/src/test/java/ru/stqa/pft/dns/tests/selenide.java" />
+        <option value="$PROJECT_DIR$/DNS/src/test/java/sdf.java" />
+        <option value="$PROJECT_DIR$/DNS/src/test/java/selenide.java" />
+        <option value="$PROJECT_DIR$/DNS/src/test/java/ru/stqa/pft/dns/tests/SelenideTest.java" />
+        <option value="$PROJECT_DIR$/DNS/src/test/java/ru/stqa/pft/dns/tests/selenideTest.java" />
+        <option value="$PROJECT_DIR$/DNS/src/test/java/ru/stqa/pft/dns/testsWithSelenide/selenideTest.java" />
+        <option value="$PROJECT_DIR$/DNS/build.gradle" />
+        <option value="$PROJECT_DIR$/DNS/src/main/java/ru/stqa/pft/dns/tests/KnopkaUIBrand_i_KnopkaUIBrands_i_KnopkaUIBrandisTest.java" />
+        <option value="$PROJECT_DIR$/DNS/src/main/java/ru/stqa/pft/dns/tests/MagaziniVAlfavitnomPoryadkeTest.java" />
+        <option value="$PROJECT_DIR$/../DNScatalog/build.gradle" />
+        <option value="$PROJECT_DIR$/../DNScatalog/src/test/java/ru/stqa/pft/dns/tests/celenide.java" />
+        <option value="$PROJECT_DIR$/../DNScatalog/src/test/java/ru/stqa/pft/dns/appmanager/PageHelper.java" />
+        <option value="$PROJECT_DIR$/../DNScatalog/src/test/java/ru/stqa/pft/dns/tests/proba.java" />
+        <option value="$PROJECT_DIR$/../DNScatalog/src/main/java/gh.java" />
+        <option value="$PROJECT_DIR$/DNS/src/test/java/ru/stqa/pft/dns/tests/df.java" />
+        <option value="$PROJECT_DIR$/DNS/src/test/java/ru/stqa/pft/dns/tests/OtobrazhenieOcenkiYTovaraTest.java" />
+        <option value="$PROJECT_DIR$/DNS/src/test/java/ru/stqa/pft/dns/appmanager/PageHelper.java" />
+        <option value="$PROJECT_DIR$/../DNScatalog/src/test/java/ru/stqa/pft/dns/tests/OtobrazhenieOcenkiYTovaraTest.java" />
+        <option value="$PROJECT_DIR$/DNS/src/test/java/ru/stqa/pft/dns/tests/celenidetest.java" />
+        <option value="$PROJECT_DIR$/../DNScatalog/src/test/java/ru/stqa/pft/dns/tests/test.java" />
+        <option value="$PROJECT_DIR$/../DNScatalog/src/test/java/ru/stqa/pft/dns/tests/celenidetest.java" />
       </list>
     </option>
   </component>
@@ -118,39 +211,87 @@
     <option name="width" value="1936" />
     <option name="height" value="774" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="DNSsite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DNS" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="DNScatalog" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="DNSsite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DNS" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="DNScatalog" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DNSsite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DNS" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="DNScatalog" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="DNSsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DNScatalog" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="DNSsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DNScatalog" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DNSsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DNScatalog" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dns" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DNSsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DNScatalog" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dns" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DNSsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DNSsite" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="DNSsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DNSsite" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="DNS" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="DNSsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DNSsite" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="DNS" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DNSsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DNSsite" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="DNS" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="DNSsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DNSsite" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="DNS" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
@@ -158,6 +299,7 @@
             </path>
             <path>
               <item name="DNSsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DNSsite" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="DNS" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
@@ -166,6 +308,7 @@
             </path>
             <path>
               <item name="DNSsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DNSsite" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="DNS" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
@@ -175,6 +318,7 @@
             </path>
             <path>
               <item name="DNSsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DNSsite" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="DNS" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
@@ -182,15 +326,20 @@
               <item name="dns" type="462c0819:PsiDirectoryNode" />
               <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="DNSsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1613341474582" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1617113509517" />
     <property name="extract.method.default.visibility" value="public" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/DNS/build.gradle" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -198,6 +347,9 @@
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ru.stqa.pft.dns.tests" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="ru.stqa.pft.dns.appmanager" />
       <recent name="ru.stqa.pft.dns" />
@@ -215,55 +367,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TovarImeetOdnuChernuyuCenuTest (1)">
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="DNScatalog" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
+  <component name="RunManager" selected="Application.test">
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.dns.tests.test" />
+      <module name="DNScatalog.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.stqa.pft.dns.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <module name="DNScatalog" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="KnopkaTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="celenidetest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="DNScatalog.test" />
       <extension name="coverage">
         <pattern>
@@ -272,16 +390,29 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="ru.stqa.pft.dns.tests" />
-      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.dns.tests.KnopkaTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.dns.tests.celenidetest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MagaziniVAlfavitnomPoryadkeTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="DNScatalog.test" />
+    <configuration name="selenideTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DNS.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.stqa.pft.dns.testsWithSelenide.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.stqa.pft.dns.testsWithSelenide" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.dns.testsWithSelenide.selenideTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortirovkaTovaraPoCenamUbivanieTest (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DNS.main" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ru.stqa.pft.dns.tests.*" />
@@ -289,41 +420,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="ru.stqa.pft.dns.tests" />
-      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.dns.tests.MagaziniVAlfavitnomPoryadkeTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NahozhdenieSlovaVSpiskeMagazinovTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="DNScatalog.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.stqa.pft.dns.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ru.stqa.pft.dns.tests" />
-      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.dns.tests.NahozhdenieSlovaVSpiskeMagazinovTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OtobrazhenieOcenkiYTovaraTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="DNScatalog.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.stqa.pft.dns.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ru.stqa.pft.dns.tests" />
-      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.dns.tests.OtobrazhenieOcenkiYTovaraTest" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.dns.tests.SortirovkaTovaraPoCenamUbivanieTest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -356,7 +453,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TovarImeetOdnuChernuyuCenuTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="selenideTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="DNS.test" />
       <extension name="coverage">
         <pattern>
@@ -365,7 +462,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="ru.stqa.pft.dns.tests" />
-      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.dns.tests.TovarImeetOdnuChernuyuCenuTest" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.dns.tests.selenideTest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -375,11 +472,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TovarImeetOdnuChernuyuCenuTest (1)" />
-        <item itemvalue="TestNG.MagaziniVAlfavitnomPoryadkeTest" />
-        <item itemvalue="TestNG.OtobrazhenieOcenkiYTovaraTest" />
-        <item itemvalue="TestNG.NahozhdenieSlovaVSpiskeMagazinovTest" />
-        <item itemvalue="TestNG.KnopkaTest" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="JUnit.celenidetest" />
+        <item itemvalue="JUnit.selenideTest" />
+        <item itemvalue="TestNG.SortirovkaTovaraPoCenamUbivanieTest (2)" />
+        <item itemvalue="TestNG.selenideTest" />
       </list>
     </recent_temporary>
   </component>
@@ -397,60 +494,61 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="OtobrazhenieOcenkiYTovaraTest - 2021.02.14 at 15h 15m 09s.xml">
-      <configuration name="OtobrazhenieOcenkiYTovaraTest" configurationId="TestNG" />
+    <history-entry file="celenidetest - 2021.02.20 at 13h 30m 51s.xml">
+      <configuration name="celenidetest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NahozhdenieSlovaVSpiskeMagazinovTest - 2021.02.14 at 15h 18m 07s.xml">
-      <configuration name="NahozhdenieSlovaVSpiskeMagazinovTest" configurationId="TestNG" />
+    <history-entry file="celenidetest - 2021.02.20 at 13h 57m 13s.xml">
+      <configuration name="celenidetest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NahozhdenieSlovaVSpiskeMagazinovTest - 2021.02.14 at 15h 19m 16s.xml">
-      <configuration name="NahozhdenieSlovaVSpiskeMagazinovTest" configurationId="TestNG" />
+    <history-entry file="celenidetest - 2021.02.20 at 14h 07m 31s.xml">
+      <configuration name="celenidetest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MagaziniVAlfavitnomPoryadkeTest - 2021.02.14 at 15h 21m 05s.xml">
-      <configuration name="MagaziniVAlfavitnomPoryadkeTest" configurationId="TestNG" />
+    <history-entry file="celenidetest - 2021.02.20 at 14h 08m 08s.xml">
+      <configuration name="celenidetest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="OtobrazhenieOcenkiYTovaraTest - 2021.02.14 at 15h 26m 21s.xml">
-      <configuration name="OtobrazhenieOcenkiYTovaraTest" configurationId="TestNG" />
+    <history-entry file="celenidetest - 2021.02.20 at 14h 08m 37s.xml">
+      <configuration name="celenidetest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="OtobrazhenieOcenkiYTovaraTest - 2021.02.14 at 15h 36m 00s.xml">
-      <configuration name="OtobrazhenieOcenkiYTovaraTest" configurationId="TestNG" />
+    <history-entry file="celenidetest - 2021.02.20 at 14h 08m 54s.xml">
+      <configuration name="celenidetest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="OtobrazhenieOcenkiYTovaraTest - 2021.02.14 at 15h 55m 40s.xml">
-      <configuration name="OtobrazhenieOcenkiYTovaraTest" configurationId="TestNG" />
+    <history-entry file="celenidetest - 2021.02.20 at 14h 17m 15s.xml">
+      <configuration name="celenidetest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MagaziniVAlfavitnomPoryadkeTest - 2021.02.14 at 23h 08m 56s.xml">
-      <configuration name="MagaziniVAlfavitnomPoryadkeTest" configurationId="TestNG" />
+    <history-entry file="celenidetest - 2021.02.20 at 14h 18m 09s.xml">
+      <configuration name="celenidetest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MagaziniVAlfavitnomPoryadkeTest - 2021.02.14 at 23h 16m 44s.xml">
-      <configuration name="MagaziniVAlfavitnomPoryadkeTest" configurationId="TestNG" />
+    <history-entry file="celenidetest - 2021.02.20 at 14h 18m 36s.xml">
+      <configuration name="celenidetest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SortirovkaTovaraPoCenamUbivanieTest - 2021.02.15 at 00h 50m 04s.xml">
-      <configuration name="SortirovkaTovaraPoCenamUbivanieTest" configurationId="TestNG" />
+    <history-entry file="celenidetest - 2021.02.20 at 14h 19m 03s.xml">
+      <configuration name="celenidetest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="Capture Tool" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.29054055" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.11963434" side_tool="true" visible="true" weight="0.3289166" />
-      <window_info anchor="bottom" id="Build" order="2" visible="true" weight="0.3289166" />
-      <window_info anchor="bottom" id="Messages" order="3" sideWeight="0.43561208" weight="0.32969603" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.12718602" side_tool="true" visible="true" weight="0.3289166" />
+      <window_info anchor="bottom" id="Build" order="2" sideWeight="0.49880764" weight="0.3289166" />
+      <window_info anchor="bottom" id="Messages" order="3" sideWeight="0.42488077" weight="0.32969603" />
       <window_info anchor="bottom" id="Version Control" order="4" />
       <window_info anchor="bottom" id="Message" order="5" />
-      <window_info anchor="bottom" id="Find" order="6" />
-      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.88036567" weight="0.3289166" />
+      <window_info anchor="bottom" id="Find" order="6" sideWeight="0.49960256" weight="0.32969603" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" sideWeight="0.872814" visible="true" weight="0.3289166" />
       <window_info anchor="bottom" id="Debug" order="8" sideWeight="0.49960256" weight="0.3990647" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info anchor="right" id="Gradle" order="0" />
+      <window_info anchor="right" id="Gradle" order="0" visible="true" weight="0.18084261" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Theme Preview" order="2" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
@@ -462,15 +560,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/АдресаМагазиновАлфавитныйПорядок.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/tests/lala.java" />
-    <entry file="file://$PROJECT_DIR$/DNScatalog/.gitattributes" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/tests/SortirovkaTovaraPoCenam" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/tests/Tovar.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/tests/TovarImeetOdnuCenuTest" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/tests/cvc.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/tests/NahozhdenieSlovaVSpiskeMagazinovTest" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/tests/dfsdf.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/tests/KnopkaTest" />
     <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/tests/OcenkaYTovaraTest" />
     <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/tests/KnopkaTest.java" />
@@ -494,18 +583,151 @@
     <entry file="file://$PROJECT_DIR$/gradlew" />
     <entry file="file://$PROJECT_DIR$/gradlew.bat" />
     <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/pft/dns/tests/OtobrazhenieOcenkiYTovaraTest.java" />
-    <entry file="file://$PROJECT_DIR$/DNS/src/test/java/ru/stqa/pft/dns/tests/TovarImeetOdnuChernuyuCenuTest.java">
+    <entry file="file://$PROJECT_DIR$/DNS/src/test/resources/BolshoyPalecVverh.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DNS/src/test/resources/allure.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        <state>
+          <caret column="45" selection-start-column="45" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DNS/gradlew">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DNS/gradlew.bat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DNS/src/test/java/ru/stqa/pft/dns/tests/selenide.java" />
+    <entry file="file://$PROJECT_DIR$/DNS/src/test/java/selenide.java" />
+    <entry file="file://$PROJECT_DIR$/DNS/src/test/java/ru/stqa/pft/dns/tests/selenideTest.java" />
+    <entry file="file://$PROJECT_DIR$/DNS/src/main/java/ru/stqa/pft/dns/testsWithSelenide/selenideTest.java" />
+    <entry file="file://$PROJECT_DIR$/DNS/src/main/java/ru/stqa/pft/dns/tests/OtobrazhenieOcenkiYTovaraTest.java" />
+    <entry file="file://$PROJECT_DIR$/DNS/src/main/java/ru/stqa/pft/dns/tests/KnopkaUIBrand_i_KnopkaUIBrands_i_KnopkaUIBrandisTest.java" />
+    <entry file="file://$PROJECT_DIR$/DNS/src/main/java/ru/stqa/pft/dns/tests/MagaziniVAlfavitnomPoryadkeTest.java" />
+    <entry file="file://$PROJECT_DIR$/DNS/src/test/java/ru/stqa/pft/dns/testsWithSelenide/selenideTest.java" />
+    <entry file="file://$PROJECT_DIR$/../DNScatalog/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DNScatalog/src/test/java/ru/stqa/pft/dns/appmanager/PageHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DNScatalog/src/test/java/ru/stqa/pft/dns/tests/proba.java" />
+    <entry file="file://$PROJECT_DIR$/../DNScatalog/src/main/java/gh.java" />
+    <entry file="file://$PROJECT_DIR$/DNS/src/test/java/ru/stqa/pft/dns/tests/df.java" />
+    <entry file="file://$PROJECT_DIR$/DNS/src/test/java/ru/stqa/pft/dns/tests/TestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DNS/src/test/java/ru/stqa/pft/dns/appmanager/ApplicationManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="32" column="34" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DNS/src/test/java/ru/stqa/pft/dns/appmanager/PageHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1700">
+          <caret line="118" selection-start-line="118" selection-end-line="118" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DNS/src/test/java/ru/stqa/pft/dns/tests/KnopkaUIBrand_i_KnopkaUIBrands_i_KnopkaUIBrandisTest.java">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DNS/src/test/java/ru/stqa/pft/dns/tests/MagaziniVAlfavitnomPoryadkeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DNS/src/test/java/ru/stqa/pft/dns/tests/NahozhdenieSlovaVSpiskeMagazinovTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DNS/src/test/java/ru/stqa/pft/dns/tests/OtobrazhenieOcenkiYTovaraTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="32" column="6" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DNS/src/test/java/ru/stqa/pft/dns/tests/SortirovkaTovaraPoCenamUbivanieTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DNS/src/test/java/ru/stqa/pft/dns/tests/TovarImeetOdnuChernuyuCenuTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DNS/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DNScatalog/src/test/java/ru/stqa/pft/dns/tests/NahozhdenieSlovaVSpiskeMagazinovTest.java">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DNS/src/test/java/ru/stqa/pft/dns/tests/celenidetest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DNScatalog/src/test/java/ru/stqa/pft/dns/tests/OtobrazhenieOcenkiYTovaraTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DNScatalog/src/test/java/ru/stqa/pft/dns/tests/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="652">
+          <caret line="157" column="22" selection-start-line="157" selection-start-column="22" selection-end-line="157" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DNScatalog/src/test/java/ru/stqa/pft/dns/tests/celenidetest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
@@ -559,7 +781,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>DNS|DNScatalog</last-edited>
+          <last-edited>main|DNScatalog</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
