@@ -28,6 +28,6 @@ public class OtobrazhenieOcenkiYTovaraTest extends TestBase {
         app.page().vystavlenieObsheyOcenki();
         app.page().zagruzkaFaila();
         app.page().otpravitOtzyv();
-        assertTrue(app.driver.findElement(By.cssSelector(".ow-opinions__item")).getText().contains("Пришелец-BG51340"));
+        assertTrue(app.driver.findElement(By.cssSelector(".ow-opinions__itemis")).getText().contains("Пришелец-BG51340"));
 
     }}
